@@ -21,8 +21,8 @@ Attached below are the screenshots of the design in both mobile and desktop vers
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub URL: (https://github.com/JOAN-96/Product-Preview-Card.git)
+- Live Site URL: [Netlify](https://681c69be3a4759e14b7e7b9e--ppcard.netlify.app/)
 
 
 ## My process
